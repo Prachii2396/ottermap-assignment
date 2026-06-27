@@ -1,0 +1,14 @@
+torch>=2.0
+torchvision
+rasterio
+geopandas
+shapely
+opencv-python
+Pillow
+numpy
+matplotlib
+tqdm
+albumentations
+timm
+supervision
+mobile-sam @ git+https://github.com/ChaoningZhang/MobileSAM.git
